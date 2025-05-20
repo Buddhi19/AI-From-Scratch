@@ -6,17 +6,18 @@ Let's learn AI from an **engineering perspective**! This guide takes you from th
 
 1. [Mathematical Foundations](#mathematical-foundations)
 2. [Hardcore Mathematics for AI](#-hardcore-mathematics-for-ai)
-3. [Programming Essentials](#programming-essentials)
-4. [Machine Learning Basics](#machine-learning-basics)
-5. [Deep Learning Fundamentals](#deep-learning-fundamentals)
-6. [Natural Language Processing](#natural-language-processing)
-7. [Computer Vision](#computer-vision)
-8. [Reinforcement Learning](#reinforcement-learning)
-9. [Generative AI](#generative-ai)
-10. [MLOps & Deployment](#mlops--deployment)
-11. [AI Ethics & Safety](#ai-ethics--safety)
-12. [Advanced AI Research Topics](#advanced-ai-research-topics)
-13. [Hands-on Projects](#hands-on-projects)
+3. [What is GitHub?](#-github)
+4. [Programming Essentials](#programming-essentials)
+5. [Machine Learning Basics](#machine-learning-basics)
+6. [Deep Learning Fundamentals](#deep-learning-fundamentals)
+7. [Natural Language Processing](#natural-language-processing)
+8. [Computer Vision](#computer-vision)
+9. [Reinforcement Learning](#reinforcement-learning)
+10. [Generative AI](#generative-ai)
+11. [MLOps & Deployment](#mlops--deployment)
+12. [AI Ethics & Safety](#ai-ethics--safety)
+13. [Advanced AI Research Topics](#advanced-ai-research-topics)
+14. [Hands-on Projects](#hands-on-projects)
 
 ## Mathematical Foundations
 
@@ -114,6 +115,33 @@ For those seeking a deeper mathematical understanding to tackle advanced AI rese
 - 📘 [Topology](https://www.amazon.com/Topology-2nd-James-Munkres/dp/0131816292) - Munkres
 - 📘 [Differential Geometry and Topology](https://www.amazon.com/Introduction-Differentiable-Manifolds-Graduate-Mathematics/dp/0387954260) - John M. Lee
 - ✏️ **Exercise**: Implement topological data analysis techniques for feature extraction
+
+## 🌟 GitHub
+
+### What is GitHub?
+- 🎬 [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E) - GitHub Official
+- 🎬 [GitHub For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) - GitHub Training
+- 🎬 [GitHub Basics](https://www.youtube.com/watch?v=x0EYpi38Yp4) - GitHub Guides
+
+### Getting Started
+- 🎬 [GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=8JJ101D3knE) - GitHub
+- 🌐 [GitHub Skills](https://skills.github.com/) - Learn by doing with interactive courses
+- 📘 [GitHub Docs](https://docs.github.com/en) - Official documentation
+
+### GitHub for AI/ML
+- 🎬 [Version Control for Data Science](https://www.youtube.com/watch?v=FXdYSQ6nu-M) - Weights & Biases
+- 🌐 [GitHub for Data Scientists](https://github.blog/2023-01-20-how-github-copilot-is-helping-data-scientists-work-faster/) - GitHub Blog
+- 🎬 [Managing ML Projects with GitHub](https://www.youtube.com/watch?v=gm0AQ3_-N4c) - Google Cloud Tech
+
+### Advanced GitHub for Teams
+- 🎬 [GitHub Actions for ML/AI](https://www.youtube.com/watch?v=S-kn4mmlxFU) - GitHub Universe
+- 🌐 [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) - Collaborative development workflow
+- 🎬 [GitHub for Project Management](https://www.youtube.com/watch?v=N8xpLlIZvmE) - GitHub Training
+
+### GitHub Tools for AI
+- 🌐 [Hugging Face & GitHub](https://huggingface.co/docs/hub/repositories-getting-started) - Managing ML models
+- 🌐 [DVC](https://dvc.org/doc/start) - Git for ML and data version control
+- 🌐 [CML](https://cml.dev/) - Continuous Machine Learning with GitHub Actions
 
 
 ## Programming Essentials
