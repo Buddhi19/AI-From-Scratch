@@ -39,6 +39,82 @@ Understanding the math behind AI is essential for mastering the field.
 - 📘 [Think Stats](https://greenteapress.com/wp/think-stats-2e/) - Free book on statistics with Python
 - ✏️ **Exercise**: Implement Bayesian inference for a simple problem
 
+
+## 🧮 Hardcore Mathematics for AI
+
+For those seeking a deeper mathematical understanding to tackle advanced AI research papers and develop cutting-edge algorithms.
+
+### Advanced Linear Algebra
+- 🎬 [Matrix Methods in Data Analysis](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) - Gilbert Strang's advanced course
+- 🎬 [Advanced Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) - Dr. Trefor Bazett
+- 📘 [Matrix Analysis and Applied Linear Algebra](http://www.matrixanalysis.com/) - Carl D. Meyer
+- 📘 [Linear Algebra Done Right](https://linear.axler.net/) - Sheldon Axler
+- ✏️ **Exercise**: Implement SVD and PCA from scratch with applications to data compression
+
+### Real Analysis & Advanced Calculus
+- 🎬 [Introduction to Real Analysis](https://www.youtube.com/playlist?list=PLBh2i93oe2quABbNq4I_-hyjhW8eOdgrO) - Francis Su
+- 🎬 [MIT Advanced Calculus for Engineers](https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/) - Gilbert Strang
+- 📘 [Introduction to Analysis](https://www.pearson.com/us/higher-education/program/Mattuck-Introduction-to-Analysis/PGM266484.html) - Arthur Mattuck
+- 📘 [Understanding Analysis](https://link.springer.com/book/10.1007/978-1-4939-2712-8) - Stephen Abbott
+- ✏️ **Exercise**: Analyze convergence properties of optimization algorithms
+
+### Mathematical Optimization
+- 🎬 [Convex Optimization](https://www.youtube.com/playlist?list=PL3940DD956CDF0622) - Stephen Boyd (Stanford)
+- 🎬 [Optimization Methods](https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc) - Geoff Gordon & Ryan Tibshirani (CMU)
+- 📘 [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - Stephen Boyd & Lieven Vandenberghe
+- 📘 [Numerical Optimization](https://link.springer.com/book/10.1007/978-0-387-40065-5) - Nocedal & Wright
+- ✏️ **Exercise**: Implement and compare different optimization methods for training neural networks
+
+### Differential Equations & Dynamical Systems
+- 🎬 [Differential Equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) - 3Blue1Brown
+- 🎬 [MIT Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) - Arthur Mattuck
+- 📘 [Ordinary Differential Equations](https://www.amazon.com/Ordinary-Differential-Equations-Dover-Mathematics/dp/0486649407) - Morris Tenenbaum
+- 📘 [Nonlinear Dynamics and Chaos](https://www.amazon.com/Nonlinear-Dynamics-Chaos-Applications-Nonlinearity/dp/0738204536) - Steven Strogatz
+- ✏️ **Exercise**: Model neural network training as a dynamical system
+
+### Advanced Probability Theory
+- 🎬 [Probability Theory](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4) - MIT OCW
+- 🎬 [Mathematical Monk: Probability Primer](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4) - Jeff Miller
+- 📘 [Probability Theory: The Logic of Science](https://www.amazon.com/Probability-Theory-Science-T-Jaynes/dp/0521592712) - E.T. Jaynes
+- 📘 [A First Course in Probability](https://www.pearson.com/en-us/subject-catalog/p/first-course-in-probability-a/P200000000294) - Sheldon Ross
+- ✏️ **Exercise**: Implement MCMC sampling methods from scratch
+
+### Statistical Learning Theory
+- 🎬 [Statistical Learning Theory](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) - Vladimir Vapnik lectures
+- 🎬 [Mathematical Monk: Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) - Jeff Miller
+- 📘 [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) - Hastie, Tibshirani & Friedman
+- 📘 [Statistical Learning Theory](https://www.amazon.com/Statistical-Learning-Theory-Vladimir-Vapnik/dp/0471030031) - Vladimir Vapnik
+- ✏️ **Exercise**: Derive the VC dimension for different hypothesis classes
+
+### Information Theory
+- 🎬 [Information Theory](https://www.youtube.com/playlist?list=PLE125425EC837021F) - Raymond Yeung
+- 🎬 [Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6) - David MacKay
+- 📘 [Elements of Information Theory](https://www.wiley.com/en-us/Elements+of+Information+Theory%2C+2nd+Edition-p-9780471241959) - Cover & Thomas
+- 📘 [Information Theory, Inference and Learning Algorithms](https://www.inference.org.uk/mackay/itila/) - David MacKay
+- ✏️ **Exercise**: Derive mutual information measures for feature selection in ML
+
+### Functional Analysis
+- 🎬 [Functional Analysis](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr) - Francis Su
+- 🎬 [Functional Analysis](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTIIIRwqK35CbFJieSJEcVR) - Claudio Landim
+- 📘 [Functional Analysis](https://www.amazon.com/Functional-Analysis-Sobolev-Partial-Differential/dp/0821843524) - Haim Brezis
+- 📘 [Introductory Functional Analysis with Applications](https://www.wiley.com/en-us/Introductory+Functional+Analysis+with+Applications-p-9780471504597) - Erwin Kreyszig
+- ✏️ **Exercise**: Apply functional analysis concepts to understand neural network function spaces
+
+### Abstract Algebra & Group Theory
+- 🎬 [Abstract Algebra](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) - Harvard
+- 🎬 [Group Theory](https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8) - PBS Infinite Series
+- 📘 [Abstract Algebra](https://www.amazon.com/Abstract-Algebra-3rd-David-Dummit/dp/0471433349) - Dummit & Foote
+- 📘 [Algebra](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847996) - Bourbaki
+- ✏️ **Exercise**: Study symmetry groups in neural networks and their implications
+
+### Topology & Manifold Learning
+- 🎬 [Introduction to Topology](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx) - Tadashi Tokieda
+- 🎬 [Topological Data Analysis](https://www.youtube.com/playlist?list=PLnUMVwuJR5d4HwdtUYPE89H_uLGieXQJq) - MIT
+- 📘 [Topology](https://www.amazon.com/Topology-2nd-James-Munkres/dp/0131816292) - Munkres
+- 📘 [Differential Geometry and Topology](https://www.amazon.com/Introduction-Differentiable-Manifolds-Graduate-Mathematics/dp/0387954260) - John M. Lee
+- ✏️ **Exercise**: Implement topological data analysis techniques for feature extraction
+
+
 ## Programming Essentials
 
 ### Python Fundamentals
