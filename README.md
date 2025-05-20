@@ -5,17 +5,18 @@ Welcome to the ultimate roadmap for learning AI from an **engineering perspectiv
 ## 📚 Table of Contents
 
 1. [Mathematical Foundations](#mathematical-foundations)
-2. [Programming Essentials](#programming-essentials)
-3. [Machine Learning Basics](#machine-learning-basics)
-4. [Deep Learning Fundamentals](#deep-learning-fundamentals)
-5. [Natural Language Processing](#natural-language-processing)
-6. [Computer Vision](#computer-vision)
-7. [Reinforcement Learning](#reinforcement-learning)
-8. [Generative AI](#generative-ai)
-9. [MLOps & Deployment](#mlops--deployment)
-10. [AI Ethics & Safety](#ai-ethics--safety)
-11. [Advanced AI Research Topics](#advanced-ai-research-topics)
-12. [Hands-on Projects](#hands-on-projects)
+2. [Hardcore Mathematics for AI](#-hardcore-mathematics-for-ai)
+3. [Programming Essentials](#programming-essentials)
+4. [Machine Learning Basics](#machine-learning-basics)
+5. [Deep Learning Fundamentals](#deep-learning-fundamentals)
+6. [Natural Language Processing](#natural-language-processing)
+7. [Computer Vision](#computer-vision)
+8. [Reinforcement Learning](#reinforcement-learning)
+9. [Generative AI](#generative-ai)
+10. [MLOps & Deployment](#mlops--deployment)
+11. [AI Ethics & Safety](#ai-ethics--safety)
+12. [Advanced AI Research Topics](#advanced-ai-research-topics)
+13. [Hands-on Projects](#hands-on-projects)
 
 ## Mathematical Foundations
 
