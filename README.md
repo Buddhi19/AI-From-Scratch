@@ -1,6 +1,6 @@
 # 🚀 Master in AI
 
-Welcome to the ultimate roadmap for learning AI from an **engineering perspective**! This guide takes you from the fundamentals to advanced concepts with carefully curated resources for each step of your journey.
+Let's learn AI from an **engineering perspective**! This guide takes you from the fundamentals to advanced concepts with carefully curated resources for each step of your journey.
 
 ## 📚 Table of Contents
 
