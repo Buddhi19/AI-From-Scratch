@@ -1,6 +1,6 @@
 # 🚀 Master in AI
 
-Let's learn AI from an **engineering perspective**! This guide takes you from the fundamentals to advanced concepts with carefully curated resources for each step of your journey.
+Let's learn AI from an **engineering perspective**! This guide takes you from the fundamentals to advanced concepts with resources for each step of your journey in AI.
 
 ## 📚 Table of Contents
 
