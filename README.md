@@ -1,4 +1,4 @@
-# 🚀 Master in AI
+# 🚀 Learn AI from scratch
 
 Let's learn AI from an **engineering perspective**! This guide takes you from the fundamentals to advanced concepts with resources for each step of your journey in AI.
 
