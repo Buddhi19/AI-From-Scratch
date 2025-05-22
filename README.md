@@ -1,301 +1,549 @@
-# 🚀 Learn AI from scratch
+<div align="center">
 
-Let's learn AI from an **engineering perspective**! This guide takes you from the fundamentals to advanced concepts with resources for each step of your journey in AI.
+![AI Learning Journey](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Master+AI+from+Zero+to+Hero;Build+Real-World+AI+Applications;Join+the+AI+Revolution)
 
-## 📚 Table of Contents
+[![GitHub stars](https://img.shields.io/github/stars/Buddhi19/AI-From-Scratch?style=social)](https://github.com/username/repo-name/stargazers)
 
-1. [Mathematical Foundations](#mathematical-foundations)
-2. [Hardcore Mathematics for AI](#-hardcore-mathematics-for-ai)
-3. [What is GitHub?](#-github)
-4. [Programming Essentials](#programming-essentials)
-5. [Machine Learning Basics](#machine-learning-basics)
-6. [Deep Learning Fundamentals](#deep-learning-fundamentals)
-7. [Natural Language Processing](#natural-language-processing)
-8. [Computer Vision](#computer-vision)
-9. [Reinforcement Learning](#reinforcement-learning)
-10. [Generative AI](#generative-ai)
-11. [MLOps & Deployment](#mlops--deployment)
-12. [AI Ethics & Safety](#ai-ethics--safety)
-13. [Advanced AI Research Topics](#advanced-ai-research-topics)
-14. [Hands-on Projects](#hands-on-projects)
+</div>
 
-## Mathematical Foundations
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
+</div>
 
-Understanding the math behind AI is essential for mastering the field.
+---
 
-### Linear Algebra
-- 🎬 [Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown's visual approach to linear algebra
-- 🎬 [Linear Algebra by MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) - Gilbert Strang's legendary course
-- 📘 [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/) - Gilbert Strang's textbook
-- ✏️ **Exercise**: Implement matrix operations from scratch in Python
+## 🌟 Your AI Learning Journey Starts Here!
 
-### Calculus
-- 🎬 [Essence of Calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) - 3Blue1Brown's visual calculus series
-- 🎬 [Multivariable Calculus](https://youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) - Khan Academy
-- 📘 [Calculus Made Easy](http://calculusmadeeasy.org/) - Thompson's classic text with modern additions
-- ✏️ **Exercise**: Implement gradient descent from scratch
+Let's learn AI from an **engineering perspective**! This interactive guide takes you from complete beginner to advanced AI practitioner with curated resources, embedded videos, and hands-on projects.
 
-### Probability & Statistics
-- 🎬 [Introduction to Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6) - MIT OCW
-- 🎬 [Statistics 110](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) - Harvard's probability course
-- 📘 [Think Stats](https://greenteapress.com/wp/think-stats-2e/) - Free book on statistics with Python
-- ✏️ **Exercise**: Implement Bayesian inference for a simple problem
+<details>
+<summary>📚 <strong>Click to Expand Table of Contents</strong></summary>
 
+1. [🧮 Mathematical Foundations](#-mathematical-foundations)
+2. [🔥 Hardcore Mathematics for AI](#-hardcore-mathematics-for-ai)
+3. [🐙 What is GitHub?](#-github)
+4. [💻 Programming Essentials](#-programming-essentials)
+5. [🤖 Machine Learning Basics](#-machine-learning-basics)
+6. [🧠 Deep Learning Fundamentals](#-deep-learning-fundamentals)
+7. [📝 Natural Language Processing](#-natural-language-processing)
+8. [👁️ Computer Vision](#️-computer-vision)
+9. [🎮 Reinforcement Learning](#-reinforcement-learning)
+10. [✨ Generative AI](#-generative-ai)
+11. [🚀 MLOps & Deployment](#-mlops--deployment)
+12. [⚖️ AI Ethics & Safety](#️-ai-ethics--safety)
+13. [🔬 Advanced AI Research Topics](#-advanced-ai-research-topics)
+14. [🛠️ Hands-on Projects](#️-hands-on-projects)
 
-## 🧮 Hardcore Mathematics for AI
+</details>
 
-For those seeking a deeper mathematical understanding to tackle advanced AI research papers and develop cutting-edge algorithms.
+---
 
-### Advanced Linear Algebra
-- 🎬 [Matrix Methods in Data Analysis](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) - Gilbert Strang's advanced course
-- 🎬 [Advanced Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) - Dr. Trefor Bazett
-- 📘 [Matrix Analysis and Applied Linear Algebra](http://www.matrixanalysis.com/) - Carl D. Meyer
-- 📘 [Linear Algebra Done Right](https://linear.axler.net/) - Sheldon Axler
-- ✏️ **Exercise**: Implement SVD and PCA from scratch with applications to data compression
+## 🧮 Mathematical Foundations
 
-### Real Analysis & Advanced Calculus
-- 🎬 [Introduction to Real Analysis](https://www.youtube.com/playlist?list=PLBh2i93oe2quABbNq4I_-hyjhW8eOdgrO) - Francis Su
-- 🎬 [MIT Advanced Calculus for Engineers](https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/) - Gilbert Strang
-- 📘 [Introduction to Analysis](https://www.pearson.com/us/higher-education/program/Mattuck-Introduction-to-Analysis/PGM266484.html) - Arthur Mattuck
-- 📘 [Understanding Analysis](https://link.springer.com/book/10.1007/978-1-4939-2712-8) - Stephen Abbott
-- ✏️ **Exercise**: Analyze convergence properties of optimization algorithms
+<div align="center">
+  <img src="https://media.giphy.com/media/xUPGcmvgjMIEhy6jZu/giphy.gif" width="300"/>
+</div>
 
-### Mathematical Optimization
-- 🎬 [Convex Optimization](https://www.youtube.com/playlist?list=PL3940DD956CDF0622) - Stephen Boyd (Stanford)
-- 🎬 [Optimization Methods](https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc) - Geoff Gordon & Ryan Tibshirani (CMU)
-- 📘 [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - Stephen Boyd & Lieven Vandenberghe
-- 📘 [Numerical Optimization](https://link.springer.com/book/10.1007/978-0-387-40065-5) - Nocedal & Wright
-- ✏️ **Exercise**: Implement and compare different optimization methods for training neural networks
+Understanding the math behind AI is essential for mastering the field. Don't worry - we'll make it visual and intuitive!
 
-### Differential Equations & Dynamical Systems
-- 🎬 [Differential Equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) - 3Blue1Brown
-- 🎬 [MIT Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) - Arthur Mattuck
-- 📘 [Ordinary Differential Equations](https://www.amazon.com/Ordinary-Differential-Equations-Dover-Mathematics/dp/0486649407) - Morris Tenenbaum
-- 📘 [Nonlinear Dynamics and Chaos](https://www.amazon.com/Nonlinear-Dynamics-Chaos-Applications-Nonlinearity/dp/0738204536) - Steven Strogatz
-- ✏️ **Exercise**: Model neural network training as a dynamical system
+### 📐 Linear Algebra
+> *The foundation of all machine learning algorithms*
 
-### Advanced Probability Theory
-- 🎬 [Probability Theory](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4) - MIT OCW
-- 🎬 [Mathematical Monk: Probability Primer](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4) - Jeff Miller
-- 📘 [Probability Theory: The Logic of Science](https://www.amazon.com/Probability-Theory-Science-T-Jaynes/dp/0521592712) - E.T. Jaynes
-- 📘 [A First Course in Probability](https://www.pearson.com/en-us/subject-catalog/p/first-course-in-probability-a/P200000000294) - Sheldon Ross
-- ✏️ **Exercise**: Implement MCMC sampling methods from scratch
+<details>
+<summary>🎯 Click to explore Linear Algebra resources</summary>
 
-### Statistical Learning Theory
-- 🎬 [Statistical Learning Theory](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) - Vladimir Vapnik lectures
-- 🎬 [Mathematical Monk: Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) - Jeff Miller
-- 📘 [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) - Hastie, Tibshirani & Friedman
-- 📘 [Statistical Learning Theory](https://www.amazon.com/Statistical-Learning-Theory-Vladimir-Vapnik/dp/0471030031) - Vladimir Vapnik
-- ✏️ **Exercise**: Derive the VC dimension for different hypothesis classes
+[![Linear Algebra Video](https://img.youtube.com/vi/fNk_zzaMoSs/maxresdefault.jpg)](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-### Information Theory
-- 🎬 [Information Theory](https://www.youtube.com/playlist?list=PLE125425EC837021F) - Raymond Yeung
-- 🎬 [Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6) - David MacKay
-- 📘 [Elements of Information Theory](https://www.wiley.com/en-us/Elements+of+Information+Theory%2C+2nd+Edition-p-9780471241959) - Cover & Thomas
-- 📘 [Information Theory, Inference and Learning Algorithms](https://www.inference.org.uk/mackay/itila/) - David MacKay
-- ✏️ **Exercise**: Derive mutual information measures for feature selection in ML
+**Essential Resources:**
+- 🎬 **[Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)** - 3Blue1Brown's visual masterpiece
+- 🎬 **[Linear Algebra by MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)** - Gilbert Strang's legendary course
+- 📘 **[Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)** - Georgia Tech's visual textbook
+- ✏️ **Challenge**: Implement matrix operations from scratch in Python
 
-### Functional Analysis
-- 🎬 [Functional Analysis](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr) - Francis Su
-- 🎬 [Functional Analysis](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTIIIRwqK35CbFJieSJEcVR) - Claudio Landim
-- 📘 [Functional Analysis](https://www.amazon.com/Functional-Analysis-Sobolev-Partial-Differential/dp/0821843524) - Haim Brezis
-- 📘 [Introductory Functional Analysis with Applications](https://www.wiley.com/en-us/Introductory+Functional+Analysis+with+Applications-p-9780471504597) - Erwin Kreyszig
-- ✏️ **Exercise**: Apply functional analysis concepts to understand neural network function spaces
+```python
+# Your first linear algebra challenge!
+import numpy as np
 
-### Abstract Algebra & Group Theory
-- 🎬 [Abstract Algebra](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) - Harvard
-- 🎬 [Group Theory](https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8) - PBS Infinite Series
-- 📘 [Abstract Algebra](https://www.amazon.com/Abstract-Algebra-3rd-David-Dummit/dp/0471433349) - Dummit & Foote
-- 📘 [Algebra](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847996) - Bourbaki
-- ✏️ **Exercise**: Study symmetry groups in neural networks and their implications
+def matrix_multiply_from_scratch(A, B):
+    # Implement without using np.dot()
+    pass
+```
 
-### Topology & Manifold Learning
-- 🎬 [Introduction to Topology](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx) - Tadashi Tokieda
-- 🎬 [Topological Data Analysis](https://www.youtube.com/playlist?list=PLnUMVwuJR5d4HwdtUYPE89H_uLGieXQJq) - MIT
-- 📘 [Topology](https://www.amazon.com/Topology-2nd-James-Munkres/dp/0131816292) - Munkres
-- 📘 [Differential Geometry and Topology](https://www.amazon.com/Introduction-Differentiable-Manifolds-Graduate-Mathematics/dp/0387954260) - John M. Lee
-- ✏️ **Exercise**: Implement topological data analysis techniques for feature extraction
+</details>
 
-## 🌟 GitHub
+### 📊 Calculus
+> *Understanding change and optimization*
 
-### What is GitHub?
-- 🎬 [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E) - GitHub Official
-- 🎬 [GitHub For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) - GitHub Training
-- 🎬 [GitHub Basics](https://www.youtube.com/watch?v=x0EYpi38Yp4) - GitHub Guides
+<details>
+<summary>🎯 Click to explore Calculus resources</summary>
 
-### Getting Started
-- 🎬 [GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=8JJ101D3knE) - GitHub
-- 🌐 [GitHub Skills](https://skills.github.com/) - Learn by doing with interactive courses
-- 📘 [GitHub Docs](https://docs.github.com/en) - Official documentation
+[![Calculus Video](https://img.youtube.com/vi/WUvTyaaNkzM/maxresdefault.jpg)](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
-### GitHub for AI/ML
-- 🎬 [Version Control for Data Science](https://www.youtube.com/watch?v=FXdYSQ6nu-M) - Weights & Biases
-- 🌐 [GitHub for Data Scientists](https://github.blog/2023-01-20-how-github-copilot-is-helping-data-scientists-work-faster/) - GitHub Blog
-- 🎬 [Managing ML Projects with GitHub](https://www.youtube.com/watch?v=gm0AQ3_-N4c) - Google Cloud Tech
+**Essential Resources:**
+- 🎬 **[Essence of Calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)** - 3Blue1Brown's intuitive approach
+- 🎬 **[Multivariable Calculus](https://youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)** - Khan Academy
+- 🌐 **[Paul's Online Calculus Notes](https://tutorial.math.lamar.edu/)** - Comprehensive reference
+- ✏️ **Challenge**: Implement gradient descent from scratch
 
-### Advanced GitHub for Teams
-- 🎬 [GitHub Actions for ML/AI](https://www.youtube.com/watch?v=S-kn4mmlxFU) - GitHub Universe
-- 🌐 [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) - Collaborative development workflow
-- 🎬 [GitHub for Project Management](https://www.youtube.com/watch?v=N8xpLlIZvmE) - GitHub Training
+</details>
 
-### GitHub Tools for AI
-- 🌐 [Hugging Face & GitHub](https://huggingface.co/docs/hub/repositories-getting-started) - Managing ML models
-- 🌐 [DVC](https://dvc.org/doc/start) - Git for ML and data version control
-- 🌐 [CML](https://cml.dev/) - Continuous Machine Learning with GitHub Actions
+### 🎲 Probability & Statistics
+> *Dealing with uncertainty in AI*
 
+<details>
+<summary>🎯 Click to explore Probability resources</summary>
 
-## Programming Essentials
+[![Probability Video](https://img.youtube.com/vi/OyddY7DlV58/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 
-### Python Fundamentals
-- 🎬 [Python for Everybody](https://www.py4e.com/) - Dr. Chuck's comprehensive Python course
-- 📘 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Practical Python programming
-- 🌐 [Real Python](https://realpython.com/) - High-quality Python tutorials
-- ✏️ **Exercise**: Build a command-line tool that processes data
+**Essential Resources:**
+- 🎬 **[Introduction to Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)** - MIT OCW
+- 📘 **[Think Stats](https://greenteapress.com/wp/think-stats-2e/)** - Statistics with Python
+- 🎮 **[Seeing Theory](https://seeing-theory.brown.edu/)** - Interactive probability visualizations
+- ✏️ **Challenge**: Build a Bayesian spam filter
 
-### Data Structures & Algorithms
-- 🎬 [Data Structures Easy to Advanced](https://www.youtube.com/watch?v=RBSGKlAvoiM) - William Fiset's tutorial
-- 📘 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
-- 🌐 [LeetCode](https://leetcode.com/) - Practice algorithmic problems
-- ✏️ **Exercise**: Implement key algorithms for sorting and searching
+</details>
 
-### Scientific Python Libraries
-- 🎬 [Complete Python NumPy Tutorial](https://www.youtube.com/watch?v=GB9ByFAIAH4) - Keith Galli
-- 🎬 [Pandas Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg) - Corey Schafer
-- 🎬 [Matplotlib Tutorial](https://www.youtube.com/watch?v=UO98lJQ3QGI) - Corey Schafer
-- 📘 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Free online book
-- ✏️ **Exercise**: Analyze a real-world dataset using NumPy, Pandas, and Matplotlib
+---
 
-## Machine Learning Basics
+## 🔥 Hardcore Mathematics for AI
 
-### Fundamentals & Supervised Learning
-- 🎬 [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) - Foundational course
-- 🎬 [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer) - ML concepts explained simply
-- 📘 [Introduction to Statistical Learning](https://www.statlearning.com/) - Excellent introduction to ML
-- 🌐 [Scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html) - Official tutorials
-- ✏️ **Exercise**: Build linear/logistic regression models from scratch
+<div align="center">
+  <img src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy.gif" width="300"/>
+</div>
 
-### Feature Engineering & Model Evaluation
-- 🎬 [Feature Engineering for Machine Learning](https://www.youtube.com/watch?v=68ABAU_V8qI) - DataCamp
-- 📘 [Feature Engineering for Machine Learning](https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/) - O'Reilly book
-- 🌐 [Machine Learning Mastery: Evaluate Performance](https://machinelearningmastery.com/performance-metrics-machine-learning/) - Jason Brownlee
-- ✏️ **Exercise**: Compare different ML algorithms on a dataset with cross-validation
+For those seeking to understand the deepest mathematical foundations of AI and tackle cutting-edge research.
 
-### Unsupervised Learning
-- 🎬 [Unsupervised Learning](https://www.youtube.com/watch?v=8dqdDEyzkFA) - Stanford CS229
-- 📘 [Unsupervised Learning Chapter in ISLR](https://www.statlearning.com/) - Chapter 12
-- 🌐 [Sklearn Clustering](https://scikit-learn.org/stable/modules/clustering.html) - Documentation
-- ✏️ **Exercise**: Apply clustering algorithms to discover patterns in unlabeled data
+<details>
+<summary>🧠 <strong>Advanced Mathematical Topics - Click to Expand</strong></summary>
 
-## Deep Learning Fundamentals
+### 🔬 Advanced Linear Algebra
+- 🎬 **[Matrix Methods in Data Analysis](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)** - Gilbert Strang's advanced course
+- 📘 **[Matrix Analysis and Applied Linear Algebra](http://www.matrixanalysis.com/)** - Carl D. Meyer
 
-### Neural Networks Basics
-- 🎬 [Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - 3Blue1Brown visual explanation
-- 🎬 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - Andrew Ng's DL courses
-- 📘 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Free online book
-- ✏️ **Exercise**: Implement a neural network from scratch with NumPy
+### 📈 Real Analysis & Advanced Calculus
+- 🎬 **[Introduction to Real Analysis](https://www.youtube.com/playlist?list=PLBh2i93oe2quABbNq4I_-hyjhW8eOdgrO)** - Francis Su
+- 📘 **[Understanding Analysis](https://link.springer.com/book/10.1007/978-1-4939-2712-8)** - Stephen Abbott
 
-### PyTorch Framework
-- 🎬 [PyTorch for Deep Learning](https://www.youtube.com/watch?v=GIsg-ZUy0MY) - freeCodeCamp
-- 🎬 [PyTorch Tutorials](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) - Python Engineer
-- 📘 [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) - Official book
-- 🌐 [PyTorch Official Tutorials](https://pytorch.org/tutorials/)
-- ✏️ **Exercise**: Convert your NumPy neural network to PyTorch
+### ⚡ Mathematical Optimization
+- 🎬 **[Convex Optimization](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)** - Stephen Boyd (Stanford)
+- 📘 **[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)** - Boyd & Vandenberghe
 
-### TensorFlow/Keras Framework
-- 🎬 [TensorFlow 2.0 Complete Course](https://www.youtube.com/watch?v=tPYj3fFJGjk) - freeCodeCamp
-- 🎬 [Keras - Python Deep Learning Neural Network API](https://www.youtube.com/watch?v=qFJeN9V1ZsI) - Edureka
-- 📘 [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) - François Chollet
-- 🌐 [TensorFlow Official Tutorials](https://www.tensorflow.org/tutorials)
-- ✏️ **Exercise**: Implement the same model in both PyTorch and TensorFlow
+### 🌊 Differential Equations & Dynamical Systems
+- 🎬 **[Differential Equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)** - 3Blue1Brown
+- 📘 **[Nonlinear Dynamics and Chaos](https://www.amazon.com/Nonlinear-Dynamics-Chaos-Applications-Nonlinearity/dp/0738204536)** - Steven Strogatz
 
-## Natural Language Processing
+### 🎯 Advanced Probability Theory
+- 📘 **[Probability Theory: The Logic of Science](https://www.amazon.com/Probability-Theory-Science-T-Jaynes/dp/0521592712)** - E.T. Jaynes
+- 🎬 **[Mathematical Monk: Probability Primer](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)** - Jeff Miller
 
-### NLP Fundamentals
-- 🎬 [NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) - Stanford CS224N
-- 📘 [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) - Jurafsky & Martin
-- 🌐 [HuggingFace NLP Course](https://huggingface.co/course/chapter1/1)
-- ✏️ **Exercise**: Build a sentiment analysis model for movie reviews
+### 📊 Statistical Learning Theory
+- 📘 **[The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)** - Hastie, Tibshirani & Friedman
+- 🎬 **[Statistical Learning Theory](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)** - Vladimir Vapnik lectures
 
-### Word Embeddings & Language Models
-- 🎬 [Word Embeddings - word2vec](https://www.youtube.com/watch?v=ERibwqs9p38) - Stanford CS224N
-- 🎬 [BERT Research Series](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6) - Chris McCormick
-- 📘 [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098103231/) - O'Reilly
-- ✏️ **Exercise**: Fine-tune a pre-trained language model on a specific task
+### 📡 Information Theory
+- 🎬 **[Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)** - David MacKay
+- 📘 **[Elements of Information Theory](https://www.wiley.com/en-us/Elements+of+Information+Theory%2C+2nd+Edition-p-9780471241959)** - Cover & Thomas
 
-### Advanced NLP Applications
-- 🎬 [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) - Andrew Ng
-- 🎬 [NLP Projects](https://www.youtube.com/watch?v=kyr71lXpHpo) - Sentdex
-- 🌐 [SpaCy Course](https://course.spacy.io/) - Advanced NLP with spaCy
-- ✏️ **Exercise**: Build a text generation or translation system
+</details>
 
-## Computer Vision
+---
 
-### CV Fundamentals
-- 🎬 [Computer Vision - Stanford CS231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-- 📘 [Deep Learning for Computer Vision](http://cs231n.stanford.edu/)
-- 🌐 [PyTorch Vision Tutorials](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
-- ✏️ **Exercise**: Implement an image classifier for CIFAR-10 dataset
+## 🐙 GitHub
 
-### Convolutional Neural Networks
-- 🎬 [Convolutional Neural Networks](https://www.youtube.com/watch?v=bNb2fEVKeEo) - Simplilearn
-- 🎬 [CNN Explainer](https://poloclub.github.io/cnn-explainer/) - Interactive visualization
-- 📘 [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) - Richard Szeliski
-- ✏️ **Exercise**: Build a CNN model for object detection
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
+</div>
 
-### Advanced CV Topics
-- 🎬 [Advanced Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) - MIT 6.869
-- 🎬 [Generative Adversarial Networks (GANs)](https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMGlJuQXtK_g6SWCiZNmDaw)
-- 📘 [Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems)
-- ✏️ **Exercise**: Implement a style transfer algorithm
+Master the essential tool for AI collaboration and version control!
 
-## Reinforcement Learning
+### 🌟 What is GitHub?
 
-### RL Fundamentals
-- 🎬 [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) - DeepMind
-- 🎬 [Reinforcement Learning Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) - UCL
-- 📘 [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) - Sutton & Barto
-- ✏️ **Exercise**: Implement Q-learning for a simple environment
+<details>
+<summary>🚀 Click to explore GitHub fundamentals</summary>
 
-### Deep Reinforcement Learning
-- 🎬 [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) - Berkeley
-- 📘 [Deep Reinforcement Learning Hands-On](https://www.packtpub.com/product/deep-reinforcement-learning-hands-on-second-edition/9781838826994)
-- 🌐 [Stable Baselines3](https://stable-baselines3.readthedocs.io/) - RL algorithms implementation
-- ✏️ **Exercise**: Train an agent to play a simple game using deep Q-networks
+[![GitHub Intro](https://img.youtube.com/vi/w3jLJU7DT5E/maxresdefault.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
-### Advanced RL Topics
-- 🎬 [CS285 Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) - UC Berkeley
-- 📘 [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) - Csaba Szepesvári
-- 🌐 [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/) - Educational resource
-- ✏️ **Exercise**: Implement policy gradient methods
+**Getting Started:**
+- 🎬 **[What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)** - GitHub Official
+- 🎬 **[GitHub For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)** - Complete tutorial
+- 🌐 **[GitHub Skills](https://skills.github.com/)** - Interactive learning
 
-## Generative AI
+**GitHub for AI/ML:**
+- 🎬 **[Version Control for Data Science](https://www.youtube.com/watch?v=FXdYSQ6nu-M)** - Best practices
+- 🌐 **[DVC](https://dvc.org/doc/start)** - Git for ML and data version control
+- 🌐 **[CML](https://cml.dev/)** - Continuous Machine Learning
 
-### Generative Models Fundamentals
-- 🎬 [Generative Models](https://www.youtube.com/watch?v=5WoItGTWV54) - Stanford CS236
-- 📘 [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) - David Foster
-- 🌐 [PyTorch GAN Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
-- ✏️ **Exercise**: Build a simple GAN to generate digits
+</details>
 
-### Diffusion Models
-- 🎬 [Diffusion Models | Paper Explanation](https://www.youtube.com/watch?v=fbLgFrlTnGU) - Yannic Kilcher
-- 🎬 [Diffusion Models from Scratch](https://www.youtube.com/watch?v=a4Yfz2FxXiY) - AI Mafia
-- 📘 [Generative AI with Python and TensorFlow 2](https://www.packtpub.com/product/generative-ai-with-python-and-tensorflow-2-second-edition/9781801071437)
-- ✏️ **Exercise**: Implement a simple diffusion model
+---
 
-### Large Language Models
-- 🎬 [How GPT Models Work](https://www.youtube.com/watch?v=zjkBMFhNj_g) - Andrej Karpathy
-- 🎬 [The Illustrated GPT-2](https://www.youtube.com/watch?v=mV2THDcvPAQ) - Jay Alammar
-- 📘 [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) - Jurafsky & Martin (Ch. 10-11)
-- 🌐 [Hugging Face Transformers](https://huggingface.co/transformers/)
-- ✏️ **Exercise**: Fine-tune a small language model on a specific task
+## 💻 Programming Essentials
 
-## MLOps & Deployment
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+</div>
 
-### ML System Design
-- 🎬 [Machine Learning Engineering](https://www.youtube.com/watch?v=s0uaFZSzwfI) - Chip Huyen
-- 📘 [Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/) - Emmanuel Ameisen
-- 🌐 [Made With ML](https://madewithml.com/) - Practical tutorials on ML systems
-- ✏️ **Exercise**: Design a complete ML system for a real-world problem
+### 🐍 Python Fundamentals
+
+<details>
+<summary>🎯 Click to master Python for AI</summary>
+
+[![Python Tutorial](https://img.youtube.com/vi/kqtD5dpn9C8/maxresdefault.jpg)](https://www.py4e.com/)
+
+**Core Python:**
+- 🎬 **[Python for Everybody](https://www.py4e.com/)** - Dr. Chuck's comprehensive course
+- 📘 **[Automate the Boring Stuff](https://automatetheboringstuff.com/)** - Practical Python
+- 🌐 **[Real Python](https://realpython.com/)** - High-quality tutorials
+
+**Data Science Libraries:**
+- 🎬 **[NumPy Complete Tutorial](https://www.youtube.com/watch?v=GB9ByFAIAH4)** - Keith Galli
+- 🎬 **[Pandas Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)** - Corey Schafer
+- 📘 **[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)** - Free online
+
+```python
+# Your Python AI toolkit starter
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+print("Welcome to AI with Python! 🚀")
+```
+
+</details>
+
+---
+
+## 🤖 Machine Learning Basics
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
+</div>
+
+### 📚 Fundamentals & Supervised Learning
+
+<details>
+<summary>🎯 Click to start your ML journey</summary>
+
+[![Andrew Ng ML](https://img.youtube.com/vi/PPLop4L2eGk/maxresdefault.jpg)](https://www.coursera.org/learn/machine-learning)
+
+**Essential Courses:**
+- 🎬 **[Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)** - The gold standard
+- 🎬 **[StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)** - Concepts made simple
+- 📘 **[Introduction to Statistical Learning](https://www.statlearning.com/)** - Free textbook
+
+**Hands-on Practice:**
+- 🌐 **[Scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html)**
+- 🏆 **[Kaggle Learn](https://www.kaggle.com/learn)** - Micro-courses
+- ✏️ **Challenge**: Build your first ML model in 30 minutes!
+
+</details>
+
+### 🔍 Feature Engineering & Model Evaluation
+
+<details>
+<summary>🎯 Master the art of feature engineering</summary>
+
+**Key Resources:**
+- 🎬 **[Feature Engineering Masterclass](https://www.youtube.com/watch?v=68ABAU_V8qI)**
+- 📘 **[Feature Engineering for Machine Learning](https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/)**
+- 🛠️ **Tools**: scikit-learn, pandas, feature-engine
+
+**Pro Tips:**
+```python
+# Feature engineering magic ✨
+from sklearn.preprocessing import StandardScaler, LabelEncoder
+from sklearn.model_selection import cross_val_score
+
+# Always validate your features!
+scores = cross_val_score(model, X, y, cv=5)
+print(f"CV Score: {scores.mean():.3f} (+/- {scores.std() * 2:.3f})")
+```
+
+</details>
+
+---
+
+## 🧠 Deep Learning Fundamentals
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300"/>
+</div>
+
+### 🧪 Neural Networks Basics
+
+<details>
+<summary>🎯 Dive into neural networks</summary>
+
+[![Neural Networks 3B1B](https://img.youtube.com/vi/aircAruvnKk/maxresdefault.jpg)](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+**Visual Learning:**
+- 🎬 **[Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)** - 3Blue1Brown's masterpiece
+- 🎬 **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** - Andrew Ng
+- 📘 **[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)** - Free online book
+
+**Interactive Tools:**
+- 🎮 **[TensorFlow Playground](https://playground.tensorflow.org/)** - Experiment with neural networks
+- 🌐 **[Neural Network Simulator](https://nnplayground.com/)** - Visual learning
+
+</details>
+
+### 🔥 PyTorch Framework
+
+<details>
+<summary>🎯 Master PyTorch for deep learning</summary>
+
+[![PyTorch Tutorial](https://img.youtube.com/vi/GIsg-ZUy0MY/maxresdefault.jpg)](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
+
+**Learning Path:**
+- 🎬 **[PyTorch for Deep Learning](https://www.youtube.com/watch?v=GIsg-ZUy0MY)** - freeCodeCamp
+- 📘 **[Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)**
+- 🌐 **[PyTorch Tutorials](https://pytorch.org/tutorials/)**
+
+```python
+# Your first PyTorch neural network
+import torch
+import torch.nn as nn
+
+class SimpleNet(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.layer = nn.Linear(784, 10)
+    
+    def forward(self, x):
+        return self.layer(x)
+
+model = SimpleNet()
+print("Neural network created! 🧠")
+```
+
+</details>
+
+---
+
+## 📝 Natural Language Processing
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
+</div>
+
+### 📖 NLP Fundamentals
+
+<details>
+<summary>🎯 Master the language of machines</summary>
+
+[![CS224N Stanford](https://img.youtube.com/vi/8rXD5-xhemo/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+
+**Core Resources:**
+- 🎬 **[NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)** - Stanford CS224N
+- 📘 **[Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)** - Jurafsky & Martin
+- 🌐 **[HuggingFace NLP Course](https://huggingface.co/course/chapter1/1)** - Hands-on transformers
+
+**Quick Start Project:**
+```python
+from transformers import pipeline
+
+# Sentiment analysis in 3 lines!
+classifier = pipeline("sentiment-analysis")
+result = classifier("I love learning AI!")
+print(f"Sentiment: {result[0]['label']} 😊")
+```
+
+</details>
+
+### 🤖 Transformers & Large Language Models
+
+<details>
+<summary>🎯 Understanding modern NLP</summary>
+
+**Essential Videos:**
+- 🎬 **[Attention is All You Need](https://www.youtube.com/watch?v=iDulhoQ2pro)** - Paper explanation
+- 🎬 **[BERT Explained](https://www.youtube.com/watch?v=xI0HHN5XKDo)** - Jay Alammar
+- 🎬 **[GPT Models Deep Dive](https://www.youtube.com/watch?v=kCc8FmEb1nY)** - Andrej Karpathy
+
+**Hands-on Tools:**
+- 🌐 **[Hugging Face Hub](https://huggingface.co/models)** - Pre-trained models
+- 🛠️ **[OpenAI API](https://platform.openai.com/)** - GPT integration
+- ✏️ **Challenge**: Fine-tune BERT for your domain
+
+</details>
+
+---
+
+## 👁️ Computer Vision
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300"/>
+</div>
+
+### 🖼️ CV Fundamentals
+
+<details>
+<summary>🎯 Teaching machines to see</summary>
+
+[![CS231n Stanford](https://img.youtube.com/vi/vT1JzLTH4G4/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+**World-Class Resources:**
+- 🎬 **[CS231n: Convolutional Neural Networks](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)** - Stanford
+- 📘 **[Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)** - Richard Szeliski
+- 🌐 **[PyTorch Vision Tutorials](https://pytorch.org/vision/stable/tutorials.html)**
+
+**Interactive Learning:**
+- 🎮 **[CNN Explainer](https://poloclub.github.io/cnn-explainer/)** - Visualize CNNs
+- 🔬 **[What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)** - Google Experiments
+
+</details>
+
+### 🏗️ Advanced CV Applications
+
+<details>
+<summary>🎯 Build cutting-edge vision systems</summary>
+
+**Specialized Topics:**
+- 🎬 **[Object Detection Explained](https://www.youtube.com/watch?v=GSwYGkTfOKk)** - YOLO, R-CNN
+- 🎬 **[GANs for Image Generation](https://www.youtube.com/watch?v=Sw9r8CL98N0)** - StyleGAN, CycleGAN
+- 🎬 **[Image Segmentation](https://www.youtube.com/watch?v=nDPWywWRIRo)** - U-Net, Mask R-CNN
+
+**Cool Projects to Try:**
+- 🎨 Neural Style Transfer
+- 👤 Face Recognition System  
+- 🚗 Autonomous Driving Computer Vision
+- 🏥 Medical Image Analysis
+
+</details>
+
+---
+
+## 🎮 Reinforcement Learning
+
+<div align="center">
+  <img src="https://media.giphy.com/media/12zV7u6Bh0vHpu/giphy.gif" width="300"/>
+</div>
+
+### 🎯 RL Fundamentals
+
+<details>
+<summary>🎯 Teaching agents to learn from experience</summary>
+
+[![David Silver RL](https://img.youtube.com/vi/2pWv7GOvuf0/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
+
+**Legendary Courses:**
+- 🎬 **[Introduction to RL](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)** - David Silver, DeepMind
+- 📘 **[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)** - Sutton & Barto
+- 🌐 **[OpenAI Spinning Up](https://spinningup.openai.com/)** - Practical deep RL
+
+**Try These Environments:**
+- 🎮 **[OpenAI Gym](https://gym.openai.com/)** - Classic RL environments
+- 🕹️ **[Unity ML-Agents](https://unity.com/products/machine-learning-agents)** - 3D environments
+- 🏆 **[PettingZoo](https://pettingzoo.farama.org/)** - Multi-agent RL
+
+</details>
+
+### 🚀 Deep Reinforcement Learning
+
+<details>
+<summary>🎯 Combining deep learning with RL</summary>
+
+**Advanced Resources:**
+- 🎬 **[Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)** - Berkeley
+- 🎬 **[CS285: Deep RL](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)** - UC Berkeley
+- 🛠️ **[Stable Baselines3](https://stable-baselines3.readthedocs.io/)** - RL algorithms library
+
+**Famous Achievements:**
+- 🏆 AlphaGo (Game of Go)
+- 🎮 OpenAI Five (Dota 2)
+- 🤖 Boston Dynamics (Robotics)
+
+</details>
+
+---
+
+## ✨ Generative AI
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjHGnY8oB4BHVTP2/giphy.gif" width="300"/>
+</div>
+
+The most exciting frontier in AI today!
+
+### 🎨 Generative Models Fundamentals
+
+<details>
+<summary>🎯 Create with AI</summary>
+
+**Core Concepts:**
+- 🎬 **[Generative Models](https://www.youtube.com/watch?v=5WoItGTWV54)** - Stanford CS236
+- 📘 **[Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/)** - David Foster
+- 🎨 **[This Person Does Not Exist](https://thispersondoesnotexist.com/)** - See GANs in action
+
+**Popular Architectures:**
+- 🔄 **Generative Adversarial Networks (GANs)**
+- 🌊 **Diffusion Models** (Stable Diffusion, DALL-E 2)
+- 🤖 **Large Language Models** (GPT, Claude, Gemini)
+
+</details>
+
+### 🌊 Diffusion Models
+
+<details>
+<summary>🎯 State-of-the-art image generation</summary>
+
+[![Diffusion Models](https://img.youtube.com/vi/fbLgFrlTnGU/maxresdefault.jpg)](https://www.youtube.com/watch?v=fbLgFrlTnGU)
+
+**Understanding Diffusion:**
+- 🎬 **[Diffusion Models Explained](https://www.youtube.com/watch?v=fbLgFrlTnGU)** - Yannic Kilcher
+- 🎬 **[How Stable Diffusion Works](https://www.youtube.com/watch?v=1CIpzeNxIhU)** - Technical deep dive
+- 🛠️ **[Diffusers Library](https://huggingface.co/docs/diffusers/)** - Hugging Face
+
+**Try These Tools:**
+- 🎨 **[Stable Diffusion](https://stability.ai/stablediffusion)** - Open source image generation
+- 🖼️ **[DALL-E 2](https://openai.com/dall-e-2/)** - OpenAI's image generator
+- 🎭 **[Midjourney](https://www.midjourney.com/)** - Artistic AI generator
+
+</details>
+
+### 📝 Large Language Models
+
+<details>
+<summary>🎯 The revolution in text generation</summary>
+
+**Understanding LLMs:**
+- 🎬 **[How GPT Works](https://www.youtube.com/watch?v=zjkBMFhNj_g)** - Andrej Karpathy
+- 🎬 **[The Illustrated GPT-2](https://www.youtube.com/watch?v=mV2THDcvPAQ)** - Jay Alammar
+- 📊 **[LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - Compare models
+
+**Hands-on Experience:**
+- 🛠️ **[OpenAI API](https://platform.openai.com/)** - GPT integration
+- 🤗 **[Hugging Face Models](https://huggingface.co/models)** - Open source LLMs
+- 🔧 **[LangChain](https://langchain.com/)** - LLM application framework
+
+</details>
+
+---
+
+## 🚀 MLOps & Deployment
+
+<div align="center">
+  <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="300"/>
+</div>
+
+### 🏗️ ML System Design
+
+<details>
+<summary>🎯 Build production-ready ML systems</summary>
+
+**System Design Fundamentals:**
+- 🎬 **[Machine Learning Engineering](https://www.youtube.com/watch?v=s0uaFZSzwfI)** - Chip Huyen
+- 📘 **[Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)** - Chip Huyen
+- 🌐 **[Made With ML](https://madewithml.com/)** - End-to-end ML systems
+
+**Essential Tools:**
+- 🐳 **Docker** - Containerization
+- ☸️ **Kubernetes** - Orchestration  
+- 📊 **MLflow** - Experiment tracking
+- 🔄 **GitHub Actions** - CI/CD
+
+</details>
 
 ### Model Serving & Monitoring
 - 🎬 [MLOps Basics](https://www.youtube.com/watch?v=9BgIDqAzfuA&list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) - Alejandro AO
