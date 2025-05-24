@@ -41,7 +41,7 @@ Let's learn AI from an **engineering perspective**! This interactive guide takes
 ## 🧮 Mathematical Foundations
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xUPGcmvgjMIEhy6jZu/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300"/>
 </div>
 
 Understanding the math behind AI is essential for mastering the field. Don't worry - we'll make it visual and intuitive!
@@ -108,7 +108,7 @@ def matrix_multiply_from_scratch(A, B):
 ## 🔥 Hardcore Mathematics for AI
 
 <div align="center">
-  <img src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="300"/>
 </div>
 
 For those seeking to understand the deepest mathematical foundations of AI and tackle cutting-edge research.
