@@ -373,7 +373,7 @@ print(f"Sentiment: {result[0]['label']} 😊")
 ## 👁️ Computer Vision
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/39DhBwd6SaReJToAka/giphy.gif" width="300"/>
 </div>
 
 ### 🖼️ CV Fundamentals
