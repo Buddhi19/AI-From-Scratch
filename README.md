@@ -16,8 +16,8 @@
 
 Let's learn AI from an **engineering perspective**! This interactive guide takes you from complete beginner to advanced AI practitioner with curated resources, embedded videos, and hands-on projects.
 
-<details>
-<summary>📚 <strong>Click to Expand Table of Contents</strong></summary>
+
+📚 Table of Contents
 
 1. [🧮 Mathematical Foundations](#-mathematical-foundations)
 2. [🔥 Hardcore Mathematics for AI](#-hardcore-mathematics-for-ai)
